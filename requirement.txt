@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+sentencepiece
+pandas
+numpy
+evaluate
+rouge-score
+protobuf
+safetensors
+huggingface-hub
