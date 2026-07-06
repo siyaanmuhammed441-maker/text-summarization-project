@@ -2,10 +2,10 @@ streamlit
 transformers
 torch
 sentencepiece
+huggingface-hub
+safetensors
+protobuf
 pandas
 numpy
 evaluate
 rouge-score
-protobuf
-safetensors
-huggingface-hub
